@@ -7,4 +7,8 @@ public class Cookie {
         System.out.println("Info");
     }
 
+    public int sum(int a, int b){
+        return a+b;
+    }
+
 }
