@@ -4,7 +4,7 @@ public class Cookie {
     }
 
     public void Info(){
-        System.out.println("Info");
+        System.out.println("Info3");
     }
 
     public int sum(int a, int b){
